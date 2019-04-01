@@ -9,3 +9,7 @@
 /RM.UnitTest/bin/Debug
 /RM.UnitTest/obj/Debug
 /RM.Common/*.user
+/.vs/RouMouTeam/v15
+/RM.WinForm.Client/bin/Debug
+/RM.WinForm.Client/obj/Debug
+/RM.Form.Client/obj/Debug

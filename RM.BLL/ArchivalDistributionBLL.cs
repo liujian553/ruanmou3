@@ -26,7 +26,7 @@ namespace RM.BLL
         public ArchivalDistributionBLL(IArchivalDistributionDAL Dal)
         {
             ArchivalDistributionDAL = Dal;
-        }s></returns>
+        }
         public IEnumerable<T> GetDistributionRecords<T>(Dictionary<string, string> recordDictionary, ref int total)
         {
             return ArchivalDistributionDAL.GetDistributionRecords<T>(recordDictionary, ref total);
