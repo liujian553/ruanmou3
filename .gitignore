@@ -1,0 +1,11 @@
+/RM.BLL/bin/Debug
+/RM.BLL/obj/Debug
+/RM.Common/bin/Debug
+/RM.Common/obj/Debug
+/RM.DAL/bin/Debug
+/RM.DAL/obj/Debug
+/RM.Models/bin/Debug
+/RM.Models/obj/Debug
+/RM.UnitTest/bin/Debug
+/RM.UnitTest/obj/Debug
+/RM.Common/*.user
