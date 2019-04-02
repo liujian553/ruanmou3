@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RM.UnitTest", "RM.UnitTest\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RM.WinForm.Client", "RM.WinForm.Client\RM.WinForm.Client.csproj", "{F9E0B1D4-D6E5-472F-B838-48B0EE987A87}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RM.Web", "RM.Web\RM.Web.csproj", "{6D6A021E-7830-4415-AD89-5CA5F144D30F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{F9E0B1D4-D6E5-472F-B838-48B0EE987A87}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9E0B1D4-D6E5-472F-B838-48B0EE987A87}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F9E0B1D4-D6E5-472F-B838-48B0EE987A87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D6A021E-7830-4415-AD89-5CA5F144D30F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D6A021E-7830-4415-AD89-5CA5F144D30F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D6A021E-7830-4415-AD89-5CA5F144D30F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D6A021E-7830-4415-AD89-5CA5F144D30F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
